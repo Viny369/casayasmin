@@ -19,7 +19,7 @@ body {
   color: #8f989f;
   height: 100%;
   position: relative;
-  background: #F4F7F7;
+  background: rgb(247, 244, 246);
 }
 
 #page {
@@ -1400,3 +1400,8 @@ h1, h2, h3, h4, h5, h6 {
 /*# sourceMappingURL=style.css.map */
 
 
+
+
+#imagemfiu {
+  background-image: url(/images/fundonovoo.jpg);
+}
