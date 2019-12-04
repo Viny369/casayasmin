@@ -1416,3 +1416,30 @@ h1, h2, h3, h4, h5, h6 {
 #imagemfiu {
   background-image: url(/images/fundonovoo.jpg);
 }
+
+
+a#lado{
+  background-color: rgb(235, 21, 21);
+  border-radius: 5px;
+  background-size: 10px 10px;
+  
+}
+
+
+
+a#lado:hover{
+  background-color: rgb(221, 47, 163);
+  color: white;
+  background-size: 10px 10px;
+}
+
+span#color {
+  color: white;
+}
+
+@media screen and (min-width: 900px) {
+
+  a#lado{
+    right: -50px;
+  }
+}
